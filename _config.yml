@@ -1,13 +1,12 @@
 # Site settings
-title: Jekyll Doc Theme
+title: KnightKrawler Docs
 email: info@team2052.com
 description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
+ Documentation for Team 2052 KnightKrawler.
 lang: en-US
 
 baseurl: "/docs" # the subpath of your site, e.g. /blog/
-url: https://aksakalli.github.io/jekyll-doc-theme # the base hostname & protocol for your site
+url: https://docs.team2052.com # the base hostname & protocol for your site
 git_address: https://github.com/frc2052/prdocs
 git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
 
